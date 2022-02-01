@@ -1,0 +1,21 @@
+.pageHeader{
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+
+.shop {
+border: solid rgb(255, 0, 0);
+flex-basis: 17%;
+margin: 5px;
+}
